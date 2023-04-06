@@ -1,0 +1,27 @@
+
+.button-1{
+    margin-bottom: 20px;
+}
+.out-bor{
+   width:38vw;
+}
+@media(max-width:600px){
+    .out-bor{
+        width:60vw;
+    }
+}
+.bottom-text{
+    margin-bottom: 20px;
+}
+.width-cont{
+    width:50vw;
+}
+@media(max-width:800px){
+    .width-cont{
+        width:70vw;
+    }
+}
+.pricing{
+    font-weight: bold;
+    font-size: 40px;
+}
